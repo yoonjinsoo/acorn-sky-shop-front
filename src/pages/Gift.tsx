@@ -1,10 +1,9 @@
-
 import React from 'react';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
-import { ShoppingBag, Gift } from 'lucide-react';
+import { ShoppingBag, Gift as GiftIcon } from 'lucide-react';
 
 const giftSets = [
   {
@@ -304,7 +303,7 @@ const Gift = () => {
                     }`}
                     disabled={!selectedGift || !selectedPackaging}
                   >
-                    <Gift size={20} className="inline-block mr-2" />
+                    <GiftIcon className="inline-block mr-2" size={20} />
                     선물하기
                   </button>
                 </div>
