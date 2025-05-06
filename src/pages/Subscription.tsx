@@ -290,7 +290,7 @@ const Subscription = () => {
                   className="bg-gray-50 rounded-xl p-6"
                 >
                   <h3 className="text-lg font-bold mb-3 text-brand-dark-brown">배송 주기를 변경할 수 있나요?</h3>
-                  <p className="text-brand-brown">네, 마이페이지 > 정기배송 관리에서 배송 주기를 언제든지 변경할 수 있습니다. 다음 결제 3일 전까지 변경하시면 새로운 주기로 적용됩니다.</p>
+                  <p className="text-brand-brown">네, 마이페이지 {'{">"}'}  정기배송 관리에서 배송 주기를 언제든지 변경할 수 있습니다. 다음 결제 3일 전까지 변경하시면 새로운 주기로 적용됩니다.</p>
                 </motion.div>
                 
                 <motion.div
