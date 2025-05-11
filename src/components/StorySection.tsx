@@ -37,12 +37,12 @@ const StorySection = () => {
               자연의 <span className="text-brand-green relative inline-block">
                 정성
                 <span className="absolute -bottom-2 left-0 right-0 h-1 bg-brand-green/30 rounded-full"></span>
-              </span>을 담은<br />하늘찬도토리공장
+              </span>을 담은<br />하늘찬방앗간
             </h2>
             
             <div className="mt-8 space-y-6 text-brand-brown">
               <p className="leading-relaxed">
-                하늘찬도토리공장은 경기도 고양시 일산에서 <span className="font-medium text-brand-dark-brown">20여 년간 전통 방식</span>으로 
+                하늘찬방앗간은 경기도 고양시 일산에서 <span className="font-medium text-brand-dark-brown">20여 년간 전통 방식</span>으로 
                 참기름, 들기름, 참깨소금을 만들어 왔습니다. 국내산 최상급 원재료만을 
                 사용하며, 첨가물 없이 순수한 방식으로 제품을 생산합니다.
               </p>

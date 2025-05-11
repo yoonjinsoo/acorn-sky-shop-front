@@ -16,7 +16,7 @@ const Navbar = () => {
       <div className="container mx-auto px-4 lg:px-8">
         <div className="flex justify-between items-center py-4">
           <Link to="/" className="text-2xl font-serif font-bold text-brand-green">
-            하늘찬도토리공장
+            하늘찬방앗간
           </Link>
           
           {/* Desktop Navigation */}

@@ -24,7 +24,7 @@ const About = () => {
                 <span className="text-brand-green">자연</span>과 <span className="text-brand-green">정성</span>이 만나는 곳
               </h1>
               <p className="text-lg text-brand-brown mb-8">
-                하늘찬도토리공장은 경기도 고양시 일산에서 20여 년간 전통 방식으로 
+                하늘찬방앗간은 경기도 고양시 일산에서 20여 년간 전통 방식으로 
                 참기름, 들기름, 참깨소금을 만들어 왔습니다.
               </p>
             </div>
@@ -51,7 +51,7 @@ const About = () => {
                 </h2>
                 <div className="space-y-4 text-brand-brown">
                   <p>
-                    하늘찬도토리공장은 2003년에 경기도 고양시에서 작은 공방으로 시작했습니다. 
+                    하늘찬방앗간은 2003년에 경기도 고양시에서 작은 공방으로 시작했습니다. 
                     대표 손연지는 어릴 적 할머니께서 만들어주시던 도토리묵과 참기름의 맛을 
                     잊지 못하고, 그 정성과 전통을 이어가기로 결심했습니다.
                   </p>
@@ -66,7 +66,7 @@ const About = () => {
                 <div className="rounded-2xl overflow-hidden shadow-xl">
                   <img 
                     src="https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=800" 
-                    alt="하늘찬도토리공장 스토리"
+                    alt="하늘찬방앗간 스토리"
                     className="w-full h-80 object-cover"
                   />
                 </div>

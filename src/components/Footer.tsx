@@ -10,7 +10,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
           {/* Company Info */}
           <div>
-            <h3 className="text-xl font-serif font-bold mb-4">하늘찬도토리공장</h3>
+            <h3 className="text-xl font-serif font-bold mb-4">하늘찬방앗간</h3>
             <ul className="space-y-2">
               <li className="flex items-start">
                 <MapPin size={18} className="mr-2 mt-1 flex-shrink-0" />
@@ -80,7 +80,7 @@ const Footer = () => {
         <div className="border-t border-brand-light-brown/30 pt-6 mt-6">
           <div className="flex flex-col md:flex-row md:justify-between space-y-4 md:space-y-0">
             <div className="text-sm">
-              <p>상호명: 하늘찬도토리 | 대표자: 손연지 | 사업자등록번호: 325-66-00322</p>
+              <p>상호명: 하늘찬방앗간 | 대표자: 손연지 | 사업자등록번호: 325-66-00322</p>
               <p>업태: 제조업, 도매 및 소매업 | 종목: 식품임가공, 식품 전분</p>
             </div>
             <div className="text-sm flex space-x-4">
@@ -90,7 +90,7 @@ const Footer = () => {
             </div>
           </div>
           <div className="text-sm text-center md:text-left mt-4">
-            <p>© {new Date().getFullYear()} 하늘찬도토리공장. All Rights Reserved.</p>
+            <p>© {new Date().getFullYear()} 하늘찬방앗간. All Rights Reserved.</p>
           </div>
         </div>
       </div>

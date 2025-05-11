@@ -13,7 +13,7 @@ const SubscribeSection = () => {
     if (email) {
       toast({
         title: "구독 신청 완료!",
-        description: "하늘찬도토리공장의 소식을 이메일로 받아보실 수 있습니다.",
+        description: "하늘찬방앗간의 소식을 이메일로 받아보실 수 있습니다.",
       });
       setEmail('');
     }
@@ -23,7 +23,7 @@ const SubscribeSection = () => {
     <section className="py-16 bg-brand-green text-white">
       <div className="container mx-auto px-4">
         <div className="max-w-2xl mx-auto text-center">
-          <h2 className="text-3xl md:text-4xl font-serif font-bold mb-4">하늘찬도토리공장 소식 받기</h2>
+          <h2 className="text-3xl md:text-4xl font-serif font-bold mb-4">하늘찬방앗간 소식 받기</h2>
           <p className="mb-8">
             신제품 출시, 이벤트, 맛있는 레시피까지 정기적으로 받아보세요.
           </p>
