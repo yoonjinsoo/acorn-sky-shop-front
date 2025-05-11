@@ -23,8 +23,8 @@ const SubscribeSection = () => {
     <section className="py-16 bg-brand-green text-white">
       <div className="container mx-auto px-4">
         <div className="max-w-2xl mx-auto text-center">
-          <h2 className="text-3xl md:text-4xl font-serif font-bold mb-4">하늘찬방앗간 소식 받기</h2>
-          <p className="mb-8">
+          <h2 className="text-3xl md:text-4xl font-serif font-bold mb-4 break-keep">하늘찬방앗간 소식 받기</h2>
+          <p className="mb-8 break-keep">
             신제품 출시, 이벤트, 맛있는 레시피까지 정기적으로 받아보세요.
           </p>
           
@@ -45,7 +45,7 @@ const SubscribeSection = () => {
             </button>
           </form>
           
-          <p className="text-sm mt-4 text-white/80">
+          <p className="text-sm mt-4 text-white/80 break-keep">
             구독은 언제든지 취소하실 수 있습니다. 개인정보는 뉴스레터 발송 목적으로만 사용됩니다.
           </p>
         </div>
